@@ -1,0 +1,25 @@
+<meta>
+	<info name="Vehicle Shader Panel" author="ertrldtcu" version="1.1" type="Script"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<file src="prac1.fx" />
+	<file src="prac2.fx" />
+	<file src="prac3.fx" />
+	<file src="prac4.fx" />
+	<file src="prac5.fx" />
+	<file src="prac6.fx" />
+	<file src="prac7.fx" />
+	<file src="prac8.fx" />
+	<file src="prac9.fx" />
+	<file src="prac10.fx" />
+	<file src="prac11.fx" />
+	<file src="prac12.fx" />
+	<file src="prac13.fx" />
+	<file src="prac14.fx" />
+	<file src="prac15.fx" />
+	<file src="prac16.fx" />
+	<file src="prac17.fx" />
+	<file src="prac18.fx" />
+	<file src="prac19.fx" />
+	<file src="prac20.fx" />
+
+</meta>
